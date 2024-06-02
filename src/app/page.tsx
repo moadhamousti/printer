@@ -2,6 +2,8 @@ import MaxWidthWrapper from "@/components/MaxWidthWrapper";
 import Phone from "@/components/Phone";
 import { Star, Check } from 'lucide-react'
 
+// Adding 
+
 export default function Home() {
   return (
     <div className="bg-slate-50">
